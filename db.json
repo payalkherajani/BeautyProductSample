@@ -1,0 +1,54 @@
+{
+    "CardData": [
+    
+        {
+            "id": "1",
+            "title": "EXTRAORDINARY OIL SERUM (100 ML)",
+            "imageURL": "https://www.lorealparis.co.in/-/media/Images/LOREAL/MasterIN/Packshots/Haircare/EC/6923700970449_T1.jpg?h=768&w=549&sc=1&la=en-IN&hash=0299EF63F206622A8D6CFA06D251DFA4C95393D4"
+        },
+        {
+            "id": "2",
+            "title": "REVITALIFT CRYSTAL MICRO-ESSENCE 65ML",
+            "imageURL": "https://www.lorealparis.co.in/-/media/Images/LOREAL/MasterIN/Packshots/Skincare/crystal/6923700934489_T2.jpg?h=1000&w=1000&sc=1&la=en-IN&hash=E14BD5F10C5E3528BD7A17C7EB3D3741A3F9D605"
+        },
+        {
+            "id": "3",
+            "title": "TOTAL REPAIR 5 RAPID REVIVER DEEP CONDITIONER (180 ML)",
+            "imageURL": "https://www.lorealparis.co.in/-/media/Images/LOREAL/MasterIN/Packshots/Haircare/TR5/8901526565832_T1.png?h=768&w=549&sc=1&la=en-IN&hash=B0811937DA61F950B5D170D40E68B456208E1786"
+        },
+        {
+            "id": "4",
+            "title": "MEN EXPERT DESERT CLAY FACEWASH (100ML)",
+            "imageURL": "https://www.lorealparis.co.in/-/media/Images/LOREAL/MasterIN/Packshots/Men/6928820071793_T1.png?h=768&w=549&sc=1&la=en-IN&hash=08D6D7F396B4444F2CF3BAD09A6CE06D6D44EA4A"
+        },
+        {
+            "id": "5",
+            "title": "MEN EXPERT BARBER CLUB SHORT BEARD & FACE MOISTURIZER (50 ML)",
+            "imageURL": "https://www.lorealparis.co.in/-/media/Images/LOREAL/MasterIN/Packshots/Men/3600523610198_T1.jpg?h=768&w=549&sc=1&la=en-IN&hash=8EB1ACF27448E305BF4EB55F9A035D45F09F81E8"
+        },
+        {
+            "id": "6",
+            "title": "WHITE ACTIV MEN EXPERT POWER 8 BRIGHTENING MOISTURISER",
+            "imageURL": "https://www.lorealparis.co.in/-/media/Images/LOREAL/MasterIN/Packshots/Men/8991380224303_T1.jpg?h=768&w=549&sc=1&la=en-IN&hash=71A89FDC5E14944BBB1AF5E0CF31B4CC76BE93D7"
+        },
+        {
+            "id": "7",
+            "title": "FALL RESIST 3X SHAMPOO (192.5 ML)",
+            "imageURL": "https://www.lorealparis.co.in/-/media/Images/LOREAL/MasterIN/Packshots/Haircare/FR/8901526102327_T1.png?h=768&w=549&sc=1&la=en-IN&hash=E430CFF6D712C3525B8D25AC1EB1A7AD67A3165A"
+        },
+        {
+            "id": "8",
+            "title": "INFALLIBLE PRO-MATTE PRESSED POWDER (100 PORCELAIN)",
+            "imageURL": "https://www.lorealparis.co.in/-/media/Images/LOREAL/MasterIN/Packshots/Makeup/Face/Pressed-Powder/071249293157_T0.jpg?h=768&w=549&sc=1&la=en-IN&hash=3E7679DB4EB8735F97615289C5B0B97B4D5245C8"
+        },
+        {
+            "id": "9",
+            "title": "FALL RESIST 3X CONDITIONER (192.5 ML)",
+            "imageURL": "https://www.lorealparis.co.in/-/media/Images/LOREAL/MasterIN/Packshots/Haircare/FR/8901526102358_T1.png?h=768&w=549&sc=1&la=en-IN&hash=819679D9BAB7F15CF9D362932D5F0670261023A0"
+        }
+    ],
+
+    "options": [
+        "Content Calenders","Product Photos","Lifestyle","Free","Background Photos","IG/Facebook Stories", "Social Media Posts","Facebook Covers","Other Graphics","Texting","Emails & NewsLetters","eBooks and Guides","Marketting and Printable","Builder Printables"
+    ]
+}

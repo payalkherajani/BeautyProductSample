@@ -1,9 +1,12 @@
 import './App.css';
 
+//Components
+import Layout from './Components/Layout'
+
 function App() {
   return (
     <div className="App">
-      Sample Project
+      <Layout />
     </div>
   );
 }
